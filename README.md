@@ -18,11 +18,3 @@ A script to download files from a list of URLs.
 2. For each URL, it sends a request to download the file, and the files are downloaded to the same directory where the script is located.
 3. If an error occurs while downloading a file, the script displays an error message.
 4. The script does not create duplicate files. If a file with the same name and extension already exists in the directory, it will simply overwrite it.
-
-## Author
-
-[Your Name]
-
-## License
-
-MIT License
