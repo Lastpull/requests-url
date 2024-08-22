@@ -10,7 +10,6 @@ A script to download files from a list of URLs.
 ## Requirements
 
 * Python 3.x
-* `requests` library
 
 ## How the script works
 
