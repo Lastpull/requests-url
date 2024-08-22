@@ -1,0 +1,1 @@
+pyinstaller --add-data "urls.txt;." Requests.py
