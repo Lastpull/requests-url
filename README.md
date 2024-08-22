@@ -1,5 +1,9 @@
 # Tests were conducted only on Windows 10
 
+# How to use:
+
+Download latest version: https://github.com/Lastpull/requests-url/releases
+
 A script to download files from a list of URLs.
 
 ## Usage
