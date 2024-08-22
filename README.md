@@ -1,4 +1,4 @@
-# Requests-url
+# Tests were conducted only on Windows 10
 
 A script to download files from a list of URLs.
 
