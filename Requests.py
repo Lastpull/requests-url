@@ -20,3 +20,14 @@ if __name__ == '__main__':
     script_dir = os.path.dirname(__file__)
     url_file = os.path.join(script_dir, 'urls.txt')
     download_files(url_file)
+    
+# import progress.bar as pb
+# import time
+
+
+# bar = pb.CharginBar("Download", max=100)
+# for i in range(100):
+#     bar.next()
+#     time.sleep(0.1)
+
+#     bar.finish()
