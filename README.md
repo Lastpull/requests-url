@@ -11,9 +11,6 @@ A script to download files from a list of URLs.
 1. The file for changing the list of addresses is located at `_internal/urls.txt`. Add the list of URLs to download to this file. Add the list of URLs to download to this file.
 2. Run the script, and it will download the files from the list.
 
-## Requirements
-
-* Python 3.x
 
 ## How the script works
 
